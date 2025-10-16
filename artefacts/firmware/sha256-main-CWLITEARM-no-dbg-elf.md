@@ -1,0 +1,1 @@
+077c3ec43985e04658714aa2f84dedfac98adbc0b177cde16216e61a97122df9  artefacts/firmware/main-CWLITEARM-no-dbg.elf

@@ -1,0 +1,1 @@
+fcdece91a3f099873f5e29986e9dcc4a2baf7f16f24c4a23f2f8d112e1c275dd  artefacts/firmware/main-CWLITEARM-dbg.elf

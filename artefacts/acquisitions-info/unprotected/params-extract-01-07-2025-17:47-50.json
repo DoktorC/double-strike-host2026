@@ -1,0 +1,52 @@
+{
+  "MACPruning": "disabled",
+  "platform": "CWLITE",
+  "scope": {
+    "adc": {
+      "basic_mode": "rising_edge",
+      "decimate": 1,
+      "fifo_fill_mode": "normal",
+      "offset": 0,
+      "presamples": 0,
+      "state": false,
+      "timeout": 2
+    },
+    "clock": {
+      "adc_phase": 0,
+      "clkgen_div": 26,
+      "clkgen_mul": 2,
+      "clkgen_src": "system",
+      "extclk_freq": 10000000,
+      "freq_ctr": 0,
+      "freq_ctr_src": "extclk",
+      "sampling_rate": 29538459,
+      "target_clock": 7384615.384615385
+    },
+    "fw": {
+      "debug": 0,
+      "major": 0,
+      "minor": 64
+    },
+    "gain": {
+      "db": 24.8359375,
+      "gain": 30,
+      "mode": "high"
+    },
+    "trigger": {
+      "module": "basic",
+      "triggers": "tio4"
+    }
+  },
+  "seeds": {
+    "MACPruning": "0x6788796354065713487561380475683745983147599873456154",
+    "inputs": "0x9991234576514442349867894567213984765061034589723458"
+  },
+  "target": {
+    "baud": 115200,
+    "chip": "STM32F303"
+  },
+  "waves": {
+    "nsamples": 18000,
+    "nwaves": 50000
+  }
+}

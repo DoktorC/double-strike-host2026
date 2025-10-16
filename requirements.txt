@@ -1,0 +1,6 @@
+alive-progress==3.2.0
+chipwhisperer==5.7.0
+importlib_metadata==8.5.0
+matplotlib==3.9.4
+numpy==1.26.4
+pip==24.3.1
