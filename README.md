@@ -7,7 +7,7 @@ Analysis Artefacts
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17965887.svg)](https://doi.org/10.5281/zenodo.17965887)
 
 Analysis Code Archive
-[![DOI](https://zenodo.org/badge/1087268667.svg)](https://zenodo.org/badge/latestdoi/{1087268667})
+[![DOI](https://zenodo.org/badge/1087268667.svg)](https://zenodo.org/badge/latestdoi/1087268667)
 
 # Repository Structure
 
