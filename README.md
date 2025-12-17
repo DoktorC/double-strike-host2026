@@ -3,6 +3,12 @@
 This repository contains the software (analysis code, MLP implementation, TinyEngine commit) employed for
 the research paper *Double Strike: Breaking Approximation-Based Side-Channel Countermeasures for DNNs*.
 
+Analysis Artefacts
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17965887.svg)](https://doi.org/10.5281/zenodo.17965887)
+
+Analysis Code Archive
+[![DOI](https://zenodo.org/badge/1087268667.svg)](https://zenodo.org/badge/latestdoi/{1087268667})
+
 # Repository Structure
 
 The repository follows this structure:
@@ -213,6 +219,16 @@ To reproduce the same results from the paper, you should:
 We provide the firmware and side-channel patterns in the `artefacts` repository.
 
 For reproducing the same IaPAM and sequence of executed/skipped non-important MACs, you must use the same numpy version reported in this repository, and the same seeds we provide in the json files describing the acquisition campaign parameters.
+
+We provide in an external archive the:
+
+  * collected side-channel traces;
+  * the inputs fed to the DNN implementations;
+  * the sequence of random values to determine whether skip or not a non-important weight;
+  * the sequence of executed MACs/processed weights;
+  * the parameters charactersing the side-channel acquisition campaign.
+
+You can find this archive at the following URL: https://zenodo.org/records/17965887.
 
 # Cite in your Documents
 
